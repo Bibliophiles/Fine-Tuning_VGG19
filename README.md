@@ -31,4 +31,4 @@ In Colab, click "File" -> "Upload notebook". Navigate to the cloned repository o
 ### Watch the Build on YouTube   
 
 ![thumbnail](https://github.com/user-attachments/assets/b4507c7b-9661-40ff-9a36-12efdb741ac8)   
-[CLICK ME](https://youtu.be/A26Tjvv_DLA)
+[CLICK ME](https://youtu.be/A26Tjvv_DLA?si=dsSKMges0KZ41ZR1)
