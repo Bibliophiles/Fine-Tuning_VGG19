@@ -15,3 +15,17 @@ To clone this repository, use the following command:
 
 ```bash
 git clone https://github.com/Bibliophiles/Fine-Tuning_VGG19.git
+```
+
+These instructions are for running this project in Google Colab after cloning the repository.
+
+Open Google Colab: Go to https://colab.research.google.com/.
+
+**Upload the Notebook:**
+
+In Colab, click "File" -> "Upload notebook". Navigate to the cloned repository on your local machine and select the .ipynb file.   
+
+### Watch the Build on YouTube   
+
+![thumbnail](https://github.com/user-attachments/assets/b4507c7b-9661-40ff-9a36-12efdb741ac8)   
+[WATCH](https://www.youtube.com/@DennisSimplifies)
