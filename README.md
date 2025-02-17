@@ -7,6 +7,9 @@
 This model uses [VGG19](https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG19) which is an already trained AI model on the
 [Imagenet Dataset](https://www.image-net.org/challenges/LSVRC/index.php) as a base-model. It then trains the base-model - taking a number of layers - on the [CIFAR10 DATASET](https://www.cs.toronto.edu/~kriz/cifar.html) to make predictions on 10 classes.  
 
+### Model Output
+After training, the model obtained a validation accuracy of 83.6% (0.836)   
+![result](https://github.com/user-attachments/assets/9712f345-d786-4fdd-a380-0b5f1229213a)
 
 ### Usage
 **Clone the Project**
