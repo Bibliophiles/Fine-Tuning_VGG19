@@ -17,7 +17,7 @@ After training, the model obtained a validation accuracy of 83.6% (0.836)
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/Bibliophiles/Fine-Tuning_VGG19.git
+git clone https://github.com/Bibliophiles/Fine-Tuning_VGG19_on_CIFAR10.git
 ```
 
 These instructions are for running this project in Google Colab after cloning the repository.
