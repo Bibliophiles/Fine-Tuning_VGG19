@@ -5,7 +5,7 @@
 
 ## Description
 This model uses [VGG19](https://www.tensorflow.org/api_docs/python/tf/keras/applications/VGG19) which is an already trained AI model on the
-[Imagenet Dataset](https://www.image-net.org/challenges/LSVRC/index.php) as a base-model. It then trains the base-model - taking a number of layers - on the [CIFAR10 DATASET](https://www.cs.toronto.edu/~kriz/cifar.html) to make predictions on 10 classes.  
+[Imagenet Dataset](https://www.image-net.org/challenges/LSVRC/index.php) as a base-model. The training is done by freezing the appropriate pretrained layers *VGG19* and modifying the learning rate to fit the use of the model. The model was trained and tested using the [CIFAR10 DATASET](https://www.cs.toronto.edu/~kriz/cifar.html) to make predictions on 10 classes, achieving a validation accuracy of 83.6%.  
 
 ## Model Output
 After training, the model obtained a validation accuracy of 83.6% (0.836)   
@@ -31,4 +31,4 @@ In Colab, click "File" -> "Upload notebook". Navigate to the cloned repository o
 ## Watch the Build on YouTube   
 
 ![thumbnail](https://github.com/user-attachments/assets/b4507c7b-9661-40ff-9a36-12efdb741ac8)   
-[View on YouTube](https://youtu.be/A26Tjvv_DLA?si=dsSKMges0KZ41ZR1)
+*[View on YouTube](https://youtu.be/A26Tjvv_DLA?si=dsSKMges0KZ41ZR1)*
